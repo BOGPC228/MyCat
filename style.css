@@ -3,13 +3,6 @@
 body {
     background-color:aqua;
     text-align:center;
-}
-
-h2 {
-    font-family: 'Playpen Sans', cursive;
-}
-
-p {
     font-family: 'Playpen Sans', cursive;
     font-size: 24px;
 }
